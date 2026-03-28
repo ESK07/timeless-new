@@ -25,10 +25,10 @@ const values = [
 ];
 
 const teamMembers = [
-  { name: "Hamilton Manika", title: "Chief Executive Officer", desc: "15+ years leading enterprise IT transformation across Southern Africa.", photo: member1, linkedin: "#" },
+  { name: "Hemilton Manika", title: "Comercial Executive Officer", desc: "15+ years leading enterprise IT transformation across Southern Africa.", photo: member1, linkedin: "#" },
   { name: "Chad Gorerekufa", title: "Business Development Manager", desc: "Drives strategic partnerships and enterprise client growth.", photo: member2, linkedin: "#" },
   { name: "Gilbert Sayi", title: "Helpdesk & Support Lead", desc: "Leads 24/7 NOC operations with rapid incident response.", photo: member3, linkedin: "#" },
-  { name: "Archlove Alufandika", title: "Systems Administrator", desc: "Ensures 99.99% uptime across mission-critical infrastructure.", photo: member4, linkedin: "#" },
+  { name: "Archlove Arufandika", title: "Network and Support Engineer", desc: "Ensures 99.99% uptime across mission-critical infrastructure.", photo: member4, linkedin: "#" },
   { name: "Willard Kunaka", title: "Sales Development Representative", desc: "Lead generation & qualification", photo: member5, linkedin: "#" },
   { name: "Phillip Muchechesi", title: "IT Project Manager", desc: "PMP-certified, delivering complex deployments on time and budget.", photo: member6, linkedin: "#" },
   { name: "Elwin Ngilazi", title: "Finance & Operations Officer", desc: "Oversees financial planning and operational efficiency.", photo: member7, linkedin: "#" },
@@ -36,7 +36,7 @@ const teamMembers = [
   { name: "Vannessa Suwali", title: "Data Center Technician", desc: "Manages physical infrastructure, cabling, and rack deployments.", photo: member9, linkedin: "#" },
   { name: "Simbarashe", title: "Sales Account Executive", desc: "Closing deals", photo: member10, linkedin: "#" },
   { name: "Samantha", title: "Sales Customer Success Manager", desc: "Retention, expansion, and long-term client value", photo: member11, linkedin: "#" },
-  { name: "Ephraim Kunaka", title: "Limit Breaker", desc: "The Joker", photo: member12, linkedin: "#" },
+  { name: "Ephraim Kunaka", title: "IT support", desc: "Intern", photo: member12, linkedin: "#" },
 ];
 
 const About = () => (
