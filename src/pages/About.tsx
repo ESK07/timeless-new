@@ -34,8 +34,8 @@ const teamMembers = [
   { name: "Elwin Ngilazi", title: "Finance & Operations Officer", desc: "Oversees financial planning and operational efficiency.", photo: member7, linkedin: "#" },
   { name: "Tinotenda Maswera", title: "Software Developer", desc: "Builds internal tools and client-facing platforms.", photo: member8, linkedin: "#" },
   { name: "Vannessa Suwali", title: "Data Center Technician", desc: "Manages physical infrastructure, cabling, and rack deployments.", photo: member9, linkedin: "#" },
-  { name: "Simbarashe", title: "Sales Account Executive", desc: "Closing deals", photo: member10, linkedin: "#" },
-  { name: "Samantha", title: "Sales Customer Success Manager", desc: "Retention, expansion, and long-term client value", photo: member11, linkedin: "#" },
+  { name: "Simbarashe Mashinge", title: "Sales Account Executive", desc: "Closing deals", photo: member10, linkedin: "#" },
+  { name: "Samantha Masilo", title: "Sales Customer Success Manager", desc: "Retention, expansion, and long-term client value", photo: member11, linkedin: "#" },
   { name: "Ephraim Kunaka", title: "IT support", desc: "Intern", photo: member12, linkedin: "#" },
 ];
 
