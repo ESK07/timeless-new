@@ -76,7 +76,7 @@ const Footer = () => (
         <div>
           <h4 className="font-display font-semibold text-sm text-foreground mb-4">Contact</h4>
           <ul className="space-y-3 text-sm text-muted-foreground">
-            <li className="flex items-center gap-2"><Phone size={14} strokeWidth={1.5} /> +263 867 700 2444</li>
+            <li className="flex items-center gap-2"><Phone size={14} strokeWidth={1.5} /> +263 867 722 2444</li>
             <li className="flex items-center gap-2"><Mail size={14} strokeWidth={1.5} /> sales@timelesstechnology.co.zw</li>
             <li className="flex items-start gap-2"><MapPin size={14} strokeWidth={1.5} className="mt-0.5" /> 2nd Floor, Pasangano Building, Avondale, Harare, Zimbabwe</li>
           </ul>

@@ -9,7 +9,7 @@ import member2 from "@/assets/team/member2.png";
 import member3 from "@/assets/team/member3.png";
 import member4 from "@/assets/team/member4.png";
 import member5 from "@/assets/team/member5.png";
-import member6 from "@/assets/team/member6.png";
+import member6 from "@/assets/team/member6.jpeg";
 import member7 from "@/assets/team/member7.png";
 import member8 from "@/assets/team/member8.png";
 import member9 from "@/assets/team/member9.png";
