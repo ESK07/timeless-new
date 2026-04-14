@@ -25,18 +25,18 @@ const values = [
 ];
 
 const teamMembers = [
-  { name: "Hemilton Manika", title: "Comercial Executive Officer", desc: "15+ years leading enterprise IT transformation across Southern Africa.", photo: member1, linkedin: "#" },
-  { name: "Chad Gorerekufa", title: "Business Development Manager", desc: "Drives strategic partnerships and enterprise client growth.", photo: member2, linkedin: "#" },
-  { name: "Gilbert Sayi", title: "Helpdesk & Support Lead", desc: "Leads 24/7 NOC operations with rapid incident response.", photo: member3, linkedin: "#" },
-  { name: "Archlove Arufandika", title: "Network and Support Engineer", desc: "Ensures 99.99% uptime across mission-critical infrastructure.", photo: member4, linkedin: "#" },
+  { name: "Hemilton Manika", title: "Comercial Executive Officer", desc: "15+ years leading enterprise IT transformation across Southern Africa.", photo: member1, linkedin: "https://www.linkedin.com/in/hemilton-manika-99188a27/" },
+  { name: "Chad Gorerekufa", title: "Business Development Manager", desc: "Drives strategic partnerships and enterprise client growth.", photo: member2, linkedin: "https://www.linkedin.com/in/chad-gore-040879a8/" },
+  { name: "Gilbert Sayi", title: "Helpdesk & Support Lead", desc: "Leads 24/7 NOC operations with rapid incident response.", photo: member3, linkedin: "https://www.linkedin.com/in/gilbert-sayi-a08353aa/" },
+  { name: "Archlove Arufandika", title: "Network and Support Engineer", desc: "Ensures 99.99% uptime across mission-critical infrastructure.", photo: member4, linkedin: "https://www.linkedin.com/in/archlove-arufandika/" },
   { name: "Willard Kunaka", title: "Sales Development Representative", desc: "Lead generation & qualification", photo: member5, linkedin: "#" },
-  { name: "Phillip Muchechesi", title: "IT Project Manager", desc: "PMP-certified, delivering complex deployments on time and budget.", photo: member6, linkedin: "#" },
-  { name: "Elwin Ngilazi", title: "Finance & Operations Officer", desc: "Oversees financial planning and operational efficiency.", photo: member7, linkedin: "#" },
-  { name: "Tinotenda Maswera", title: "Software Developer", desc: "Builds internal tools and client-facing platforms.", photo: member8, linkedin: "#" },
-  { name: "Vannessa Suwali", title: "Data Center Technician", desc: "Manages physical infrastructure, cabling, and rack deployments.", photo: member9, linkedin: "#" },
+  { name: "Phillip Muchechesi", title: "IT Project Manager", desc: "PMP-certified, delivering complex deployments on time and budget.", photo: member6, linkedin: "https://www.linkedin.com/in/phillip-t-muchechesi-473757334/" },
+  { name: "Elwin Ngilazi", title: "Finance & Operations Officer", desc: "Oversees financial planning and operational efficiency.", photo: member7, linkedin: "https://www.linkedin.com/in/tanyaradzwa-ngilazi-40151333a/" },
+  { name: "Tinotenda Maswera", title: "Software Developer", desc: "Builds internal tools and client-facing platforms.", photo: member8, linkedin: "https://www.linkedin.com/in/tinotenda-maswera-49a950258/" },
+  { name: "Vannessa Suwali", title: "Data Center Technician", desc: "Manages physical infrastructure, cabling, and rack deployments.", photo: member9, linkedin: "https://www.linkedin.com/in/vanessa-suwali-4a3314324/" },
   { name: "Simbarashe Mashinge", title: "Sales Account Executive", desc: "Closing deals", photo: member10, linkedin: "#" },
   { name: "Samantha Masilo", title: "Sales Customer Success Manager", desc: "Retention, expansion, and long-term client value", photo: member11, linkedin: "#" },
-  { name: "Ephraim Kunaka", title: "IT support", desc: "Intern", photo: member12, linkedin: "#" },
+  { name: "Ephraim Kunaka", title: "IT support", desc: "Intern", photo: member12, linkedin: "https://www.linkedin.com/in/ephraim-s-kunaka-0b2610213/" },
 ];
 
 const About = () => (
